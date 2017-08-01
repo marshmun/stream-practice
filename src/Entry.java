@@ -75,6 +75,5 @@ public class Entry {
         entries.add(entry);
 
         return entries;
-
     }
 }

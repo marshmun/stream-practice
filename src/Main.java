@@ -28,7 +28,6 @@ public class Main {
     }
 
     public static void printTuesdays(List<Entry> entries) {
-        //Print out tuesday entries
         // write for loop
         System.out.println("For Loop:");
         for (Entry entry : entries)
